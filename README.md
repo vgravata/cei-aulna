@@ -1,0 +1,1 @@
+[![.github/workflows/linha-de-montagem.yml](https://github.com/vgravata/cei-aulna/actions/workflows/linha-de-montagem.yml/badge.svg)](https://github.com/vgravata/cei-aulna/actions/workflows/linha-de-montagem.yml)
